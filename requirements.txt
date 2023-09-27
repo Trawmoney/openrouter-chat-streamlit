@@ -5,3 +5,4 @@ google-search-results
 anthropic
 streamlit-chat
 streamlit_javascript
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
