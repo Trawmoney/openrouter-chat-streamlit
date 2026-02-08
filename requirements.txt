@@ -4,3 +4,4 @@ openai
 google-search-results
 streamlit-chat
 streamlit_javascript
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
